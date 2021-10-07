@@ -1,0 +1,30 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px  chartreuse;
+}
+
+.NOTE {
+    font-size: small;
+    color: darksalmon;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: darkslateblue;
+    background-color: lightcoral;
+    width: 100%;
+    bottom: 0px;
+    line-height: 3px;
+    text-align: center;
+    height: 60px;
+    padding: 30px;
+}
+
+canvas {
+    border: 5px solid coral;
+    border-radius: 20;
+    box-shadow: 5px 5px 5px lightgreen;
+}
+
